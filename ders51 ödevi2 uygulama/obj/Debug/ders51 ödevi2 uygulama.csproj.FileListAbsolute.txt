@@ -1,0 +1,7 @@
+C:\Users\docal\source\repos\ders51 ödevi2 uygulama\ders51 ödevi2 uygulama\obj\Debug\ders51 ödevi2 uygulama.csprojAssemblyReference.cache
+C:\Users\docal\source\repos\ders51 ödevi2 uygulama\ders51 ödevi2 uygulama\obj\Debug\ders51 ödevi2 uygulama.csproj.CoreCompileInputs.cache
+C:\Users\docal\source\repos\ders51 ödevi2 uygulama\ders51 ödevi2 uygulama\bin\Debug\ders51 ödevi2 uygulama.exe.config
+C:\Users\docal\source\repos\ders51 ödevi2 uygulama\ders51 ödevi2 uygulama\bin\Debug\ders51 ödevi2 uygulama.exe
+C:\Users\docal\source\repos\ders51 ödevi2 uygulama\ders51 ödevi2 uygulama\bin\Debug\ders51 ödevi2 uygulama.pdb
+C:\Users\docal\source\repos\ders51 ödevi2 uygulama\ders51 ödevi2 uygulama\obj\Debug\ders51 ödevi2 uygulama.exe
+C:\Users\docal\source\repos\ders51 ödevi2 uygulama\ders51 ödevi2 uygulama\obj\Debug\ders51 ödevi2 uygulama.pdb
